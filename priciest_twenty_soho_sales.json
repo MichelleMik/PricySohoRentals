@@ -1,0 +1,142 @@
+[
+  {
+    "listing_class": "sale",
+    "address": "350 West Broadway ",
+    "unit": "#PH",
+    "url": "http://streeteasy.com/sale/1185507",
+    "price": 22500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "20 Sullivan Street TOWNHOUSE1",
+    "unit": "N/A",
+    "url": "http://streeteasy.com/building/20-sullivan-street-new_york/townhouse1",
+    "price": 18500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "25 Mercer Street ",
+    "unit": "#PH",
+    "url": "http://streeteasy.com/building/25-mercer-street-new_york/ph",
+    "price": 17500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "180 Avenue  of the Americas ",
+    "unit": "#PHC",
+    "url": "http://streeteasy.com/building/one-vandam/phc",
+    "price": 17500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "158 Mercer Street ",
+    "unit": "#7B",
+    "url": "http://streeteasy.com/building/158-mercer-street-new_york/7b",
+    "price": 16900000
+  },
+  {
+    "listing_class": "sale",
+    "address": "25 Mercer Street ",
+    "unit": "#TH",
+    "url": "http://streeteasy.com/building/25-mercer-street-new_york/th",
+    "price": 16500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "20 Greene Street ",
+    "unit": "#PHB",
+    "url": "http://streeteasy.com/building/20-greene-street-new_york/phb",
+    "price": 16000000
+  },
+  {
+    "listing_class": "sale",
+    "address": "27 Vandam Street ",
+    "unit": "N/A",
+    "url": "http://streeteasy.com/building/27-vandam-street-manhattan/house",
+    "price": 15950000
+  },
+  {
+    "listing_class": "sale",
+    "address": "311 West Broadway ",
+    "unit": "#PHE",
+    "url": "http://streeteasy.com/building/soho-mews/phe",
+    "price": 15000000
+  },
+  {
+    "listing_class": "sale",
+    "address": "45 Greene Street ",
+    "unit": "#5-6",
+    "url": "http://streeteasy.com/building/45-greene-street-new_york/56",
+    "price": 14250000
+  },
+  {
+    "listing_class": "sale",
+    "address": "63 Greene Street ",
+    "unit": "#PHA",
+    "url": "http://streeteasy.com/building/63-greene-street-new_york/pha",
+    "price": 12950000
+  },
+  {
+    "listing_class": "sale",
+    "address": "158 Mercer Street ",
+    "unit": "#3/4B",
+    "url": "http://streeteasy.com/building/158-mercer-street-new_york/34b",
+    "price": 12500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "145 Sixth Avenue ",
+    "unit": "#4AE",
+    "url": "http://streeteasy.com/building/145-6-avenue-new_york/4ae",
+    "price": 10995000
+  },
+  {
+    "listing_class": "sale",
+    "address": "40 Mercer Street ",
+    "unit": "#11W36",
+    "url": "http://streeteasy.com/building/40-mercer-street-new_york/11w36",
+    "price": 10900000
+  },
+  {
+    "listing_class": "sale",
+    "address": "73 Wooster Street ",
+    "unit": "#3B",
+    "url": "http://streeteasy.com/building/387-west-broadway-new_york/3b",
+    "price": 10500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "41 King Street ",
+    "unit": "N/A",
+    "url": "http://streeteasy.com/building/41-king-street-new_york/house",
+    "price": 10500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "10 Sullivan Street ",
+    "unit": "#9A",
+    "url": "http://streeteasy.com/building/10-sullivan-street-new_york/9a",
+    "price": 10000000
+  },
+  {
+    "listing_class": "sale",
+    "address": "45 Greene Street ",
+    "unit": "#6",
+    "url": "http://streeteasy.com/building/45-greene-street-new_york/6",
+    "price": 9750000
+  },
+  {
+    "listing_class": "sale",
+    "address": "40 Mercer Street ",
+    "unit": "#37",
+    "url": "http://streeteasy.com/building/40-mercer-street-new_york/37",
+    "price": 9500000
+  },
+  {
+    "listing_class": "sale",
+    "address": "85 Sullivan Street ",
+    "unit": "N/A",
+    "url": "http://streeteasy.com/sale/1203592",
+    "price": 9250000
+  }
+]

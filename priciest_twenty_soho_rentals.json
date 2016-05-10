@@ -1,0 +1,142 @@
+[
+  {
+    "listing_class": "rental",
+    "address": "350 West Broadway ",
+    "unit": "#PH",
+    "url": "http://streeteasy.com/rental/1715955",
+    "price": 49000
+  },
+  {
+    "listing_class": "rental",
+    "address": "40 Mercer Street ",
+    "unit": "#PH7",
+    "url": "http://streeteasy.com/building/40-mercer-street-new_york/ph7",
+    "price": 42000
+  },
+  {
+    "listing_class": "rental",
+    "address": "42 Wooster Street ",
+    "unit": "#2S",
+    "url": "http://streeteasy.com/building/42-wooster-street-new_york/2s",
+    "price": 37500
+  },
+  {
+    "listing_class": "rental",
+    "address": "145 Sixth Avenue ",
+    "unit": "#2B",
+    "url": "http://streeteasy.com/building/145-6-avenue-new_york/2b",
+    "price": 35000
+  },
+  {
+    "listing_class": "rental",
+    "address": "94 Thompson Street ",
+    "unit": "#2",
+    "url": "http://streeteasy.com/building/94-thompson-street-manhattan/2",
+    "price": 35000
+  },
+  {
+    "listing_class": "rental",
+    "address": "40 Mercer Street ",
+    "unit": "#6B",
+    "url": "http://streeteasy.com/building/40-mercer-street-new_york/6b",
+    "price": 34000
+  },
+  {
+    "listing_class": "rental",
+    "address": "472 Broome Street ",
+    "unit": "#3",
+    "url": "http://streeteasy.com/building/472-broome-street-manhattan/3?featured=1",
+    "price": 30000
+  },
+  {
+    "listing_class": "rental",
+    "address": "40 Mercer Street ",
+    "unit": "#26",
+    "url": "http://streeteasy.com/building/40-mercer-street-new_york/26",
+    "price": 30000
+  },
+  {
+    "listing_class": "rental",
+    "address": "23 Greene Street ",
+    "unit": "#PH",
+    "url": "http://streeteasy.com/building/23-greene-street-manhattan/ph",
+    "price": 28500
+  },
+  {
+    "listing_class": "rental",
+    "address": "366 West Broadway ",
+    "unit": "#2",
+    "url": "http://streeteasy.com/building/1-watts-street-new_york/2",
+    "price": 25000
+  },
+  {
+    "listing_class": "rental",
+    "address": "56 Crosby Street ",
+    "unit": "#5B",
+    "url": "http://streeteasy.com/building/56-crosby-street-new_york/5b",
+    "price": 22995
+  },
+  {
+    "listing_class": "rental",
+    "address": "116 Mercer Street ",
+    "unit": "#3",
+    "url": "http://streeteasy.com/building/545-broadway-manhattan/3",
+    "price": 22000
+  },
+  {
+    "listing_class": "rental",
+    "address": "103 Greene Street ",
+    "unit": "#4B",
+    "url": "http://streeteasy.com/rental/1600743",
+    "price": 22000
+  },
+  {
+    "listing_class": "rental",
+    "address": "103 Greene Street ",
+    "unit": "#4B",
+    "url": "http://streeteasy.com/rental/1600743",
+    "price": 22000
+  },
+  {
+    "listing_class": "rental",
+    "address": "83 Mercer Street ",
+    "unit": "#PH",
+    "url": "http://streeteasy.com/building/83-mercer-street-new_york/ph",
+    "price": 21500
+  },
+  {
+    "listing_class": "rental",
+    "address": "460 W Broadway ",
+    "unit": "#3/4N",
+    "url": "http://streeteasy.com/building/460-west-broadway-new_york/34n",
+    "price": 20000
+  },
+  {
+    "listing_class": "rental",
+    "address": "514 Broadway ",
+    "unit": "#6H",
+    "url": "http://streeteasy.com/building/514-broadway-new_york/6h",
+    "price": 20000
+  },
+  {
+    "listing_class": "rental",
+    "address": "481 Washington Street ",
+    "unit": "#3S",
+    "url": "http://streeteasy.com/building/spice-warehouse/3s",
+    "price": 20000
+  },
+  {
+    "listing_class": "rental",
+    "address": "554 Broome Street ",
+    "unit": "#PH6",
+    "url": "http://streeteasy.com/building/554-broome-street-new_york/ph6",
+    "price": 20000
+  },
+  {
+    "listing_class": "rental",
+    "address": "519 Broadway ",
+    "unit": "#4",
+    "url": "http://streeteasy.com/building/84-mercer-street-new_york/4",
+    "price": 19995
+  }
+]
